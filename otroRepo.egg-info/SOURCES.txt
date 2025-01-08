@@ -1,0 +1,7 @@
+README.md
+setup.py
+otroRepo/__init__.py
+otroRepo.egg-info/PKG-INFO
+otroRepo.egg-info/SOURCES.txt
+otroRepo.egg-info/dependency_links.txt
+otroRepo.egg-info/top_level.txt
